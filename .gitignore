@@ -1,0 +1,13 @@
+/data/*
+/model/*
+/utils/*
+/radiomics/*
+/preprocessing/*
+*.py
+*.ipynb
+*.txt
+*.yaml
+*.sh
+*.env
+*.ipynb_checkpoints
+*.hdf5
