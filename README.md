@@ -39,7 +39,8 @@ Our framework integrates:
 ├── model/
 ├── preprocessing/
 ├── figs/
-└── radiomics
+├── tmp_experiment/
+└── radiomics/
 ```
 
 Detailed usage instructions will be updated soon. The model weight can be accessed from [here](https://drive.google.com/file/d/1qPWqe9vT5AqlFHAqali6V5TKERSdpq5R/view?usp=sharing)

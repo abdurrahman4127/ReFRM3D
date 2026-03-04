@@ -3,6 +3,7 @@
 /utils/*
 /radiomics/*
 /preprocessing/*
+/tmp_experiment/*
 *.py
 *.ipynb
 *.txt
