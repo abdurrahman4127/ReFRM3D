@@ -1,0 +1,13 @@
+.ext/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+outputs/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
